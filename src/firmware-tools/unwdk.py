@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # Utility for extracting WDK "filesystems", such as those found in the DIR-100.
 
 import os

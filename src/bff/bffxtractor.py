@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # A hacky extraction utility for extracting the contents of BFF volume entries.
 # It can't parse a BFF file itself, but expects the BFF volume entry to already 
 # be extracted to a file; it then extracts the original file from the volume entry 

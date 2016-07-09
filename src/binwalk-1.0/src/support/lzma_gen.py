@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # Generates LZMA signatures for each valid LZMA property in the properties list.
 
 
