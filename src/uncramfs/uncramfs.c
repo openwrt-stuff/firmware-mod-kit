@@ -9,7 +9,7 @@
 
 // C things
 #include <stdio.h>
-//#include <stdlib.h>
+#include <stdlib.h>
 #include <string.h>
 #include <assert.h>
 
@@ -21,6 +21,7 @@
 #include <sys/stat.h>
 #include <sys/mman.h>
 #include <sys/fcntl.h>
+#include <sys/sysmacros.h>
 
 // Application libraries
 #include <zlib.h>

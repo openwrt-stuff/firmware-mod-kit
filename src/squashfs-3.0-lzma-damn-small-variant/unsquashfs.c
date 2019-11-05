@@ -31,7 +31,9 @@
 #include <string.h>
 #include <zlib.h>
 #include <sys/mman.h>
+#include <sys/sysmacros.h>
 #include <utime.h>
+#include <sys/sysmacros.h>
 
 #ifndef linux
 #define __BYTE_ORDER BYTE_ORDER

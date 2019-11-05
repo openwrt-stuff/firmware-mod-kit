@@ -48,6 +48,7 @@
 #include "global.h"
 #include "sqlzma.h"
 #include "sqmagic.h"
+#include <sys/sysmacros.h>
 
 #include <stdlib.h>
 

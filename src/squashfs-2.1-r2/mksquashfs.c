@@ -38,6 +38,7 @@
 #include <signal.h>
 #include <setjmp.h>
 #include <sys/mman.h>
+#include <sys/sysmacros.h>
 
 #include "mksquashfs.h"
 #include <squashfs_fs.h>

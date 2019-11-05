@@ -44,6 +44,7 @@
 #include <sys/mman.h>
 #include <pthread.h>
 #include <math.h>
+#include <sys/sysmacros.h>
 
 #ifndef linux
 #define __BYTE_ORDER BYTE_ORDER

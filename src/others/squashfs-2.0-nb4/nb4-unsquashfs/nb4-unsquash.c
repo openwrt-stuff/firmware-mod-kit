@@ -45,6 +45,7 @@
 #include <time.h>
 #include <regex.h>
 #include <fnmatch.h>
+#include <sys/sysmacros.h>
 
 #if defined(__GNUC__) && !defined(__MACOSX__)
   #include <endian.h>
