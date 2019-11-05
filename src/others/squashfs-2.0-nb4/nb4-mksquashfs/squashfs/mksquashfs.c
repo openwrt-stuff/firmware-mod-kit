@@ -33,6 +33,7 @@
 #include <dirent.h>
 #include <string.h>
 #include <zlib.h>
+#include <sys/sysmacros.h>
 #ifdef __MACOSX__
   #define __BYTE_ORDER BYTE_ORDER
   #define __BIG_ENDIAN BIG_ENDIAN

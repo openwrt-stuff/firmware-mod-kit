@@ -46,6 +46,7 @@
 #include <signal.h>
 #include <setjmp.h>
 #include <sys/mman.h>
+#include <sys/sysmacros.h>
 
 /* jc */
 //#define SQUASHFS_TRACE

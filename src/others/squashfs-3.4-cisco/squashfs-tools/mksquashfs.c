@@ -48,6 +48,7 @@
 #include <math.h>
 #include <regex.h>
 #include <fnmatch.h>
+#include <sys/sysmacros.h>
 
 #include "LzmaEnc.h"
 #include "Alloc.h"

@@ -49,6 +49,7 @@
 #include <regex.h>
 #include <fnmatch.h>
 #include <sys/wait.h>
+#include <sys/sysmacros.h>
 
 #ifndef linux
 #ifndef __CYGWIN__

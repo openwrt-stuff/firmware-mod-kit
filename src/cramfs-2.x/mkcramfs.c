@@ -34,6 +34,7 @@
 #include <string.h>
 #include <stdarg.h>
 #include <linux/cramfs_fs.h>
+#include <sys/sysmacros.h>
 #include <zlib.h>
 
 /* Exit codes used by mkfs-type programs */
